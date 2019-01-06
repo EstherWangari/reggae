@@ -1,0 +1,26 @@
+body {
+  background-image: url(../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.kare{
+  text-align: center;
+  padding-top: 15%;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 100px;
+}
+.k{color:red}
+.A{color:#F9EC41; font-weight: 900}
+.R{color:#2A6837}
+.E{color:red}
+.arrow{color:#2A6837}
+
+.love{
+  text-align: center;
+  color:red;
+  font-size: 100px;
+}
+
+i.fa.fa-fa-heartbeat{
+  font-size: 100px;
+}
