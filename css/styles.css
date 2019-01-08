@@ -31,8 +31,8 @@ i.fa.fa-fa-heartbeat{
 
 
 @media (max-width: 575.98px) {
-.kare{width:100%;font-size:6rem;padding-top: 65%;}
-.love{width:100%;font-size:6rem;}
+.kare{width:100%;font-size:6rem;padding-top: 80%;text-align:center;}
+.love{width:100%;font-size:6rem;text-align:center;}
 
 }
 /*Medium devices (tablets, 768px and up)
